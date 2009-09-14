@@ -6,7 +6,7 @@
 Summary:	%{_pearname} - provides a c-client backend for webmail
 Name:		php-pear-%{_pearname}
 Version:	0.2.0
-Release:	%mkrel 3
+Release:	%mkrel 4
 License:	PHP License
 Group:		Development/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tar.bz2
